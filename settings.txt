@@ -1,0 +1,13 @@
+randomSeed=1
+epochs=100000
+rewards=-0.5,2.0,4.0
+alpha=0.4
+gamma=0.9
+epsilon=0.05
+nrGens=200
+nrAgents=750
+mutateChance=0.05
+algorithm=1
+policy=2
+parent=2
+inheritance=2
